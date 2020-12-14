@@ -1,0 +1,9 @@
+mikrotik:
+    user: username
+    secrets: [pass1, pass2]
+    ports: [22, 222, 22222]
+
+ubiquiti:
+    user: username
+    secrets: ['pass1', 'pass2']
+    ports: [22, 222, 22222]
