@@ -1,0 +1,14 @@
+# ip addresses which should be polled
+ipaddresses:
+    - 10.100.12.0/24
+    - 10.100.40.0/29
+
+# path for backups and configurations
+path_backup:    /home/me/backup/
+
+# SNMP parameters
+snmp_community: public
+snmp_version: 1
+
+# TODO: usage for database,
+use_db: false
